@@ -1,0 +1,8 @@
+C:\c#\SBProject\SBProject\bin\Debug\SBProject.exe.config
+C:\c#\SBProject\SBProject\bin\Debug\SBProject.exe
+C:\c#\SBProject\SBProject\bin\Debug\SBProject.pdb
+C:\c#\SBProject\SBProject\obj\Debug\SBProject.csprojAssemblyReference.cache
+C:\c#\SBProject\SBProject\obj\Debug\SBProject.exe
+C:\c#\SBProject\SBProject\obj\Debug\SBProject.pdb
+C:\c#\SBProject\SBProject\bin\Debug\ExRateSB.mdf
+C:\c#\SBProject\SBProject\bin\Debug\ExRateSB_log.ldf
